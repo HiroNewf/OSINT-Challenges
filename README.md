@@ -19,6 +19,6 @@ In the same state as the big apple, is a smaller city founded in 1817. What was 
 This city has quite a few noteworthy museums, one of these museums would be of most interest to young children, how much grant money did this museum receive from the U.S Department of Commerce Economic Development Administration in 2022? (Provide an exact number, no rounded figures).
 
 ### Challenge #4 - Location OSINT
-What are the exact cordinates where this photo was taken to the seventh decimal place? 
+What are the exact cordinates (to the seventh decimal place) where this photo was taken? 
 ![image](https://github.com/user-attachments/assets/3b34a0ed-1ece-4950-8be4-282865e1c3e7)
 
