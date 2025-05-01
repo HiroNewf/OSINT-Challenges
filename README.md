@@ -20,4 +20,5 @@ This city has quite a few noteworthy museums, one of these museums would be of m
 
 ### Challenge #4 - Location OSINT
 What are the exact cordinates where this photo was taken? 
-![ftyfyuo](https://github.com/user-attachments/assets/135db21d-88f9-40b4-a6bc-c8e78dc56a61)
+![image](https://github.com/user-attachments/assets/3b34a0ed-1ece-4950-8be4-282865e1c3e7)
+
