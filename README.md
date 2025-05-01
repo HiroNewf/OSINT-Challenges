@@ -1,6 +1,4 @@
 # OSINT-Challenges
-These are probably fairly easy challenges, but in the future I plan to make some more difficult ones. 
-
 ### Challenge #1 - Pure Bred Pup
 This pure bred dog has a fairly rare trait of double back dewclaws. What breed is this dog? 
 
