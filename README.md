@@ -2,7 +2,7 @@
 ## Challenge #1 - Pure Bred Pup
 This pure bred dog has a fairly rare trait of double back dewclaws. What breed is this dog? 
 
-One of the owners of these lovely pups is a popular gaming youtuber who's channel was created on August 21st of 2010. What is the name of his fluffy white friend? 
+One of the owners of these lovely pups is a popular gaming youtuber who's lets play channel was created on August 21st of 2010. What is the name of his fluffy white friend? 
 
 A famous eastern TV show has a character of the same name who wears a yellow suit. In which episode of the show was this character introduced?
 
