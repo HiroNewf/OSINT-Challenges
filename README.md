@@ -16,7 +16,7 @@ A well known chef and Food Network star has a show in which the first episode ai
 One of this chef's restaurants is located in Vegas and serves French style cuisine. What other celebrity chef, with perhaps an even larger TV presence, also has a restaurant within the same venue as this French eatery? Additionally, on which social media platform does this second chef have the most followers? 
 
 ### Challenge #3 - Grant Money
-In the same state as the big apple, is a smaller city founded in 1817. What was the orginal name of this city (once village)? 
+In the same state as the big apple, is a smaller city founded in 1817. What was the orginal name of this city before it was changed in 1822? 
 
 This city has quite a few noteworthy museums, one of these museums would be of most interest to young children, how much grant money did this museum receive from the U.S Department of Commerce Economic Development Administration in 2022? (Provide an exact number, no rounded figures).
 
