@@ -11,7 +11,7 @@ A famous eastern TV show has a character of the same name who wears a yellow sui
 **Answers:**
 <details>
   <summary>Click to reveal question 1 answer </summary>
-Great Pyrenes 
+Great Pyrenees 
 </details>
 <details>
   <summary>Click to reveal question 2 answer </summary>
