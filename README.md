@@ -44,7 +44,7 @@ TikTok
 
 
 ## Challenge #3 - Grant Money
-In the same state as the big apple, is a smaller city founded in 1817. What was the orginal name of this city before it was changed in 1822? 
+In the same state as the big apple, is a smaller city founded in 1817. What was the original name of this city before it was changed in 1822? 
 
 This city has quite a few noteworthy museums, one of these museums would be of most interest to young children, how much grant money did this museum receive from the U.S Department of Commerce Economic Development Administration in 2022? (Provide an exact number, no rounded figures).
 
@@ -60,7 +60,7 @@ $7,522,932
 
 
 ## Challenge #4 - Location OSINT
-What are the exact cordinates (to the seventh decimal place) where this photo was taken? 
+What are the exact coordinates (to the seventh decimal place) where this photo was taken? 
 ![image](https://github.com/user-attachments/assets/3b34a0ed-1ece-4950-8be4-282865e1c3e7)
 
 **Answer:**
