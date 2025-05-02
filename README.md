@@ -96,7 +96,7 @@ Highway 35
 2880 miles
 </details>
 
-## Challenge #4 - Sports Hoodie
+## Challenge #6 - Sports Hoodie
 On Jan 15, 2024 Snoop Dogg posted a video on social media where he’s wearing a yellow hoodie from what US sports team? 
 
 This team has "officially retired" three uniform numbers. What are they?
@@ -117,7 +117,7 @@ We can make a postal code when we string those uniform numbers from from greates
 Bangriposi, India
 </details>
 
-## Challenge #4 - 90's Cartoon
+## Challenge #7 - 90's Cartoon
 This art is inspired by a 90s cartoon. Aside from telling us what show this is inspired by, also identify the now famous movie actor who showed off their action figures at a toy fair in 1995. 
 
 From an Entertainment Tonight vault video, we again find our toy fair actor being interviewed with another up and coming actor around the 2:00 mark. 
