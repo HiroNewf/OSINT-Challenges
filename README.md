@@ -1,5 +1,5 @@
 # OSINT-Challenges
-A group of OSINT Challenges from HiroNewf & d1r7b46 (stolen with permission).
+A group of OSINT Challenges from HiroNewf (me) & d1r7b46 (stolen with permission).
 ## Challenge #1 - Pure Bred Pup
 This pure bred dog has a fairly rare trait of double back dewclaws. What breed is this dog? 
 
