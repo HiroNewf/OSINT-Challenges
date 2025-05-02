@@ -1,5 +1,8 @@
 # OSINT-Challenges
-A group of OSINT Challenges from Hiro (me) & d1r7b46 (stolen with permission).
+A group of OSINT Challenges from Hiro (me) & d1r7b46 (stolen with permission). 
+
+The current plan is for this repo to constantly update it with new challenges on roughly a weekly basis. 
+
 ## Challenge #1 - Pure Bred Pup
 This pure bred dog has a fairly rare trait of double back dewclaws. What breed is this dog? 
 
@@ -143,3 +146,6 @@ Boiler Room
   <summary>Click to reveal answer 4 </summary>
 Deauville American Film Festival Jury Special Prize
 </details>
+
+## Challenge #8
+TBD 
