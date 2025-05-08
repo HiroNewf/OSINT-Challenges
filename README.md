@@ -147,5 +147,32 @@ Boiler Room
 Deauville American Film Festival Jury Special Prize
 </details>
 
-## Challenge #8
-TBD 
+## Challenge #8 - Fossil Expedition 
+This park is named after an interesting geological finding here, one of the largest collections in the world. These curiosities would inspire many paleontologists to do research here, one of the first being an interesting character. Who was the paleontologist that first led a fossil expedition in the park and what museum did they fund and establish in 1908?
+
+Not many can say they’ve been to this museum as it is closed to the public. Rumor has it, however, that a resident fossil there adorns a festive hat sometimes. Find the picture, I promise at least one exists out there.
+
+To succeed at this challenge, you’ll need to correctly answer the following questions:
+* What national park is this?
+* Who first led a fossil expedition in this park and what is the name of the museum established?
+* What fossil wears a festive hat at the museum identified above?
+
+![image](https://github.com/user-attachments/assets/58b5e33d-c95c-46c3-8c28-fc51808abb48)
+
+**Answers:**
+<details>
+  <summary>Click to reveal question 1's answer </summary>
+ Petrified Forest National Park in Arizona 
+</details>
+<details>
+  <summary>Click to reveal question 2's answer </summary>
+Annie Alexander
+</details>
+<details>
+  <summary>Click to reveal question 3's answer </summary>
+Museum of Vertebrate Zoology (MVZ)
+</details>
+<details>
+  <summary>Click to reveal question 4's answer </summary>
+T-Rex
+</details>
