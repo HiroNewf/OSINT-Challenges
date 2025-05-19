@@ -176,3 +176,20 @@ Museum of Vertebrate Zoology (MVZ)
   <summary>Click to reveal question 4's answer </summary>
 T-Rex
 </details>
+
+## Challenge #9 - Video Game Screenshot
+This is a screenshot from a video game series. Can you identify the name of the character shown here? 
+
+The first game of this series is going to receive a remake soon. How many years will it have been between the original game’s release and the release of the remake? 
+
+![image](https://github.com/user-attachments/assets/9ff489e8-0569-475c-9673-e1c3292adad5)
+
+**Answers:**
+<details>
+  <summary>Click to reveal question 1's answer </summary>
+ Shizuna Rem Misurugi 
+</details>
+<details>
+  <summary>Click to reveal question 2's answer </summary>
+21 years
+</details>
