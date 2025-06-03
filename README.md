@@ -1,7 +1,7 @@
 # OSINT-Challenges
 A group of OSINT Challenges from Hiro (me) & d1r7b46 (stolen with permission). 
 
-The current plan is for this repo to constantly update it with new challenges on roughly a weekly basis. 
+The current plan is for this repo to constantly update it with new challenges. 
 
 ## Challenge #1 - Pure Bred Pup
 This pure bred dog has a fairly rare trait of double back dewclaws. What breed is this dog? 
