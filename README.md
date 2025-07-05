@@ -1,14 +1,14 @@
 # OSINT-Challenges
-A group of OSINT Challenges from Hiro (me) & d1r7b46 (stolen with permission). 
+A group of OSINT Challenges from Hiro (me) & d1r7b46. 
 
 The current plan is for this repo to constantly update it with new challenges. 
 
 ## Challenge #1 - Pure Bred Pup
-This pure bred dog has a fairly rare trait of double back dewclaws. What breed is this dog? 
+This purebred dog has a fairly rare trait of double back dewclaws. What breed is this dog? 
 
-One of the owners of these lovely pups is a popular gaming youtuber who's lets play channel was created on August 21st of 2010. What is the name of his fluffy white friend? 
+One of the owners of these lovely pups is a popular gaming YouTuber who's lets play channel was created on August 21st of 2010. What is the name of his fluffy white friend? 
 
-A famous eastern TV show has a character of the same name who wears a yellow suit. In which episode of the show was this character introduced?
+A famous Eastern TV show has a character of the same name who wears a yellow suit. In which episode of the show was this character introduced?
 
 ![image](https://github.com/user-attachments/assets/674e57b7-344b-4a12-a0bf-2083b6e868ab)
 
@@ -28,9 +28,9 @@ Episode 5 of My Hero Academia
 
 
 ## Challenge #2 - Famous Chefs
-A well known chef and Food Network star has a show in which the first episode aired on August 24th 2013. What is the name of this chef? 
+A well-known chef and Food Network star has a show in which the first episode aired on August 24th, 2013. What is the name of this chef? 
 
-One of this chef's restaurants is located in Vegas and serves French style cuisine. What other celebrity chef, with perhaps an even larger TV presence, also has a restaurant within the same venue as this French eatery? Additionally, on which social media platform does this second chef have the most followers? 
+One of this chef's restaurants is located in Vegas and serves French-style cuisine. What other celebrity chef, with perhaps an even larger TV presence, also has a restaurant within the same venue as this French eatery? Additionally, on which social media platform does this second chef have the most followers? 
 
 **Answers:**
 <details>
@@ -48,9 +48,9 @@ TikTok
 
 
 ## Challenge #3 - Grant Money
-In the same state as the big apple, is a smaller city founded in 1817. What was the original name of this city before it was changed in 1822? 
+In the same state as the Big Apple, is a smaller city founded in 1817. What was the original name of this city before it was changed in 1822? 
 
-This city has quite a few noteworthy museums, one of these museums would be of most interest to young children, how much grant money did this museum receive from the U.S Department of Commerce Economic Development Administration in 2022? (Provide an exact number, no rounded figures).
+This city has quite a few noteworthy museums, one of which would be of most interest to young children. How much grant money did this museum receive from the U.S Department of Commerce Economic Development Administration in 2022? (Provide an exact number, no rounded figures.)
 
 **Answers:**
 <details>
@@ -74,7 +74,7 @@ What are the exact coordinates (to the seventh decimal place) where this photo w
 </details>
 
 ## Challenge #5 - Endangered Arthropods
-Geolocating this place may not be hard but the endangered arthropods that can be found in this place sure makes a hard migration every few generations. 
+Geolocating this place may not be hard, but the endangered arthropods that can be found in this place sure makes a hard migration every few generations. 
 
 You should be able to find a few posters that have been made to commemorate this mighty migration. In one poster, a specific interstate highway is mentioned. What is this interstate and how many states does it go through? 
 
