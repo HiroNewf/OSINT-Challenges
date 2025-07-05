@@ -193,3 +193,26 @@ The first game of this series is going to receive a remake soon. How many years 
   <summary>Click to reveal question 2's answer </summary>
 21 years
 </details>
+
+## Challenge #9 - Lego Set Identification 
+This is a picture of a handful of lego pieces all coming from the same lego set. What is the name and official set number of the lego set these pieces are a part of? 
+
+If we take this set's number, we will see that it could also be a postal code. Where is this postal code for? 
+
+Within this region, there is a variety of golf courses and clubs. What is the name of the only golf establishment that offers miniature golf? 
+
+![image](https://github.com/user-attachments/assets/22faac6f-de55-48f5-a71e-74f98e1cd8ce)
+
+**Answers:**
+<details>
+  <summary>Click to reveal question 1's answer </summary>
+ Coast Guard Patrol 60014 
+</details>
+<details>
+  <summary>Click to reveal question 2's answer </summary>
+ McHenry County, Illinois
+</details>
+<details>
+  <summary>Click to reveal question 3's answer </summary>
+ Lippold Park Family Golf Center
+</details>
